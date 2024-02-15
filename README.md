@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm interested in
+- functional programming
+- web accessibility
+- static sites and Jamstack
+
+I'm currently looking for work.
+
 <!--
 **tanyabouman/tanyabouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
