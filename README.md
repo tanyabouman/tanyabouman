@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm interested in
-- functional programming
-- web accessibility
-- static sites and Jamstack
+A few of my contributions are
+
+- First PR: https://github.com/spell-music/amsterdam/pull/1 I made it for an assignment in a Computer Science communication skills course.   It's mostly documentation with some type signatures.
+- First PR for work: https://github.com/eileenmcnaughton/org.wikimedia.contacteditor/issues/5 It was a bug fix for a CiviCRM plugin. A few weeks later, I also contributed to CiviCRM core. https://github.com/civicrm/civicrm-core/pull/12707
+- Most commits to a single open source repository (I think): https://github.com/decaporg/one-click-hugo-cms/commits?author=tanyabouman  I contributed because this template is the closest thing that I've found to a nice static site that has an easy way for non-technical people to edit the content.  Another interesting project for static sites is Elm Pages, and I contributed some documentation for that. https://github.com/dillonkearns/elm-pages/commits?author=tanyabouman
 
 I'm currently looking for work.
 
