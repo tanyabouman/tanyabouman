@@ -1,7 +1,5 @@
 # Hi, I'm Tanya Bouman 👋
 
-I'm currently looking for work.
-
 Some of my contributions:
 
 - **First PR**: Added documentation and type signatures on a Haskell project for an assignment in a Computer Science communication skills course.  https://github.com/spell-music/amsterdam/pull/1
